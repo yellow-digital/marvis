@@ -1,0 +1,13 @@
+[
+   {"name":"commands"},
+   {"name":"blipmaps"},
+   {"name":"hello"},
+   {"name":"ollama"},
+   {"name":"maps"},
+   {"name":"functions"},
+   {"name":"welcome"},
+   {"name":"facebook"},
+   {"name":"persist"},
+   {"name":"location"},
+   {"name":"tel"}
+]
